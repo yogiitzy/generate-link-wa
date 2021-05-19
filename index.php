@@ -87,7 +87,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
   
-      <script id="rendered-js" src="cip/la.js"></script>
+      <script id="rendered-js" src="b.js"></script>
 
   
 
